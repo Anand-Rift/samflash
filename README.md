@@ -1,3 +1,4 @@
+## Warning please use it as your own risk its the first version soo you dotta pay attention it works on my sam a21s but still...
 # SamFlash
 
 A lightweight Qt6-based GUI flashing tool for Samsung devices on Linux. SamFlash bridges official firmware flashing via **Odin4** and custom recovery flashing via **Heimdall** in a single native desktop interface.
